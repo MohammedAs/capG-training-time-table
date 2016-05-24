@@ -1,0 +1,1 @@
+# capG-training-time-table
